@@ -133,3 +133,34 @@
 [19Mar2025 14:18:50.352] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
 [19Mar2025 14:19:14.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 3'/6941, l='ServerLevel[world]', x=500.50, y=59.00, z=49.80] died: Goblin lvl 3 died
 [19Mar2025 14:19:22.408] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:20:27.552] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:20:34.952] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:20:58.118] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:21:46.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 3'/7346, l='ServerLevel[world]', x=498.34, y=59.00, z=20.75] died: Goblin lvl 3 died
+[19Mar2025 14:21:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 died
+[19Mar2025 14:22:30.803] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:22:58.252] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:23:12.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 9'/7675, l='ServerLevel[world]', x=513.96, y=59.50, z=23.16] died: Goblin lvl 9 died
+[19Mar2025 14:23:42.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 died
+[19Mar2025 14:24:15.602] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:24:18.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 has made the advancement [Stone Age]
+[19Mar2025 14:24:33.552] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:24:58.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 has made the advancement [Getting an Upgrade]
+[19Mar2025 14:25:04.852] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:25:10.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 6'/8012, l='ServerLevel[world]', x=499.91, y=59.00, z=45.06] died: Goblin lvl 6 died
+[19Mar2025 14:25:22.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 9'/8011, l='ServerLevel[world]', x=497.09, y=59.00, z=36.99] died: Goblin lvl 9 died
+[19Mar2025 14:26:01.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bilielpro08 lost connection: Timed out
+[19Mar2025 14:26:01.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 left the game
+[19Mar2025 14:26:15.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bilielpro08[/127.188.143.65:53251] logged in with entity id 8198 at (546.8048495082294, 59.5, 17.713926592081904)
+[19Mar2025 14:26:15.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 joined the game
+[19Mar2025 14:26:18.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 died
+[19Mar2025 14:26:37.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 6'/8025, l='ServerLevel[world]', x=548.50, y=59.00, z=-4.56] died: Goblin lvl 6 died
+[19Mar2025 14:26:48.202] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:27:25.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JANCrack8 lost connection: Disconnected
+[19Mar2025 14:27:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 left the game
+[19Mar2025 14:27:36.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JANCrack8[/127.22.145.199:42209] logged in with entity id 8631 at (501.709885994061, 61.47663668075059, -23.30000001192093)
+[19Mar2025 14:27:36.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 joined the game
+[19Mar2025 14:29:33.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JANCrack8 lost connection: Timed out
+[19Mar2025 14:29:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 left the game
+[19Mar2025 14:29:45.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JANCrack8[/127.22.145.199:38077] logged in with entity id 8980 at (-300.265606094847, 63.0, 165.78555077116187)
+[19Mar2025 14:29:45.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 joined the game
