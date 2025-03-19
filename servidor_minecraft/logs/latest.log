@@ -103,3 +103,33 @@
 [19Mar2025 14:08:04.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 died
 [19Mar2025 14:08:33.404] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
 [19Mar2025 14:08:44.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 12'/5843, l='ServerLevel[world]', x=499.66, y=59.00, z=45.65] died: Goblin lvl 12 died
+[19Mar2025 14:09:59.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 6'/5853, l='ServerLevel[world]', x=451.17, y=59.50, z=73.87] died: Goblin lvl 6 died
+[19Mar2025 14:10:31.063] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 2'/5855, l='ServerLevel[world]', x=451.32, y=59.00, z=80.66] died: Goblin lvl 2 died
+[19Mar2025 14:10:39.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 8'/5854, l='ServerLevel[world]', x=452.60, y=59.00, z=76.98] died: Goblin lvl 8 died
+[19Mar2025 14:12:48.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 died
+[19Mar2025 14:13:15.702] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:13:19.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bilielpro08 was kicked for floating too long!
+[19Mar2025 14:13:19.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bilielpro08 lost connection: Flying is not enabled on this server
+[19Mar2025 14:13:19.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 left the game
+[19Mar2025 14:13:30.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bilielpro08[/127.188.143.65:47583] logged in with entity id 6161 at (500.0, 60.0, 60.0)
+[19Mar2025 14:13:30.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 joined the game
+[19Mar2025 14:13:48.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 7'/6168, l='ServerLevel[world]', x=499.73, y=59.00, z=108.37] died: Goblin lvl 7 died
+[19Mar2025 14:13:49.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 9'/6167, l='ServerLevel[world]', x=499.46, y=59.00, z=109.19] died: Goblin lvl 9 died
+[19Mar2025 14:13:56.783] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 10'/6166, l='ServerLevel[world]', x=499.46, y=59.00, z=105.16] died: Goblin lvl 10 died
+[19Mar2025 14:14:21.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JANCrack8[/127.22.145.199:44613] logged in with entity id 6214 at (-378.5, 75.0, 249.5)
+[19Mar2025 14:14:21.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 joined the game
+[19Mar2025 14:15:05.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 has made the advancement [Monster Hunter]
+[19Mar2025 14:15:45.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22359ms or 447 ticks behind
+[19Mar2025 14:15:45.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bilielpro08 moved too quickly! -0.9819189749916291,0.10442410132670688,-10.129357025307876
+[19Mar2025 14:16:14.602] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:16:48.677] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 4'/6174, l='ServerLevel[world]', x=549.61, y=59.00, z=6.43] died: Goblin lvl 4 died
+[19Mar2025 14:17:25.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bilielpro08 lost connection: Disconnected
+[19Mar2025 14:17:25.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 left the game
+[19Mar2025 14:17:35.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bilielpro08[/127.188.143.65:57283] logged in with entity id 6566 at (593.0749999880791, 59.5, -25.84787467131094)
+[19Mar2025 14:17:35.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 joined the game
+[19Mar2025 14:18:14.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 died
+[19Mar2025 14:18:31.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JANCrack8 died
+[19Mar2025 14:18:40.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bilielpro08 moved too quickly! 5.543843150776809,0.15233518685055003,-8.67141851227845
+[19Mar2025 14:18:50.352] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:19:14.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 3'/6941, l='ServerLevel[world]', x=500.50, y=59.00, z=49.80] died: Goblin lvl 3 died
+[19Mar2025 14:19:22.408] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
