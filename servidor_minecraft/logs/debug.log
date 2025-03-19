@@ -1115,3 +1115,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Mar2025 13:55:06.513] [Server thread/DEBUG] [mixin/]: Mixing EntitySelectorMixin from pehkui.mixins.json into net.minecraft.commands.arguments.selector.EntitySelector
 [19Mar2025 13:56:01.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Mar2025 13:56:01.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 14:00:34.331] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 4'/4968, l='ServerLevel[world]', x=536.06, y=59.00, z=21.00] died: Goblin lvl 4 died
+[19Mar2025 14:00:47.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 8'/4971, l='ServerLevel[world]', x=535.38, y=59.00, z=20.53] died: Goblin lvl 8 died
+[19Mar2025 14:01:00.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 14:01:00.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 14:04:01.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 5'/4965, l='ServerLevel[world]', x=523.97, y=59.00, z=20.50] died: Goblin lvl 5 died
+[19Mar2025 14:05:03.202] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:05:25.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 died
+[19Mar2025 14:06:00.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Mar2025 14:06:00.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Mar2025 14:06:43.202] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:06:54.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 2'/5481, l='ServerLevel[world]', x=500.59, y=59.00, z=76.00] died: Goblin lvl 2 died
+[19Mar2025 14:07:45.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 5'/5489, l='ServerLevel[world]', x=499.29, y=59.00, z=52.21] died: Goblin lvl 5 died
+[19Mar2025 14:08:04.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bilielpro08 died
+[19Mar2025 14:08:33.404] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[19Mar2025 14:08:44.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 12'/5843, l='ServerLevel[world]', x=499.66, y=59.00, z=45.65] died: Goblin lvl 12 died
