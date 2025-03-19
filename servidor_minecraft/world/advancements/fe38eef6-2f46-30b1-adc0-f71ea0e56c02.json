@@ -7,8 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-03-19 14:32:18 +0000",
       "minecraft:frozen_river": "2025-03-19 14:16:04 +0000",
       "minecraft:snowy_taiga": "2025-03-19 14:14:22 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-19 14:32:01 +0000",
+      "minecraft:frozen_ocean": "2025-03-19 14:30:11 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-19 14:30:54 +0000",
       "minecraft:snowy_beach": "2025-03-19 14:14:47 +0000"
     },
     "done": false
@@ -497,6 +501,42 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-19 14:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-19 14:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-19 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-19 14:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-19 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-19 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-19 14:30:50 +0000"
     },
     "done": true
   },

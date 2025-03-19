@@ -7,10 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-03-19 14:32:19 +0000",
       "minecraft:frozen_river": "2025-03-19 13:32:39 +0000",
       "minecraft:snowy_plains": "2025-03-19 13:33:55 +0000",
       "minecraft:snowy_taiga": "2025-03-18 21:47:17 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-19 14:32:01 +0000",
       "minecraft:frozen_ocean": "2025-03-19 13:31:47 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-19 14:31:17 +0000",
       "minecraft:snowy_beach": "2025-03-19 13:31:11 +0000"
     },
     "done": false
@@ -837,6 +840,60 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-19 13:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-19 14:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-19 14:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-19 14:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-19 14:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-19 14:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-19 14:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-19 14:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-19 14:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-19 14:29:55 +0000"
     },
     "done": true
   },
